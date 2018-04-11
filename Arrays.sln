@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Arrays", "..\..\..\..\D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Arrays", "..\..\..\..\Desktop\CS_Starter_RU\009_Arrays\001_Arrays\Arrays2\002_Arrays.csproj", "{DE74A50B-793B-4D1C-80BE-A14BF7C2AC3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersArray", "UsersArray\UsersArray.csproj", "{E487DCDA-328C-41A8-B97C-F57FC182630C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,14 @@ Global
 		{DE74A50B-793B-4D1C-80BE-A14BF7C2AC3C}.Release|Any CPU.ActiveCfg = Release|x86
 		{DE74A50B-793B-4D1C-80BE-A14BF7C2AC3C}.Release|x86.ActiveCfg = Release|x86
 		{DE74A50B-793B-4D1C-80BE-A14BF7C2AC3C}.Release|x86.Build.0 = Release|x86
+		{E487DCDA-328C-41A8-B97C-F57FC182630C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E487DCDA-328C-41A8-B97C-F57FC182630C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E487DCDA-328C-41A8-B97C-F57FC182630C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E487DCDA-328C-41A8-B97C-F57FC182630C}.Debug|x86.Build.0 = Debug|Any CPU
+		{E487DCDA-328C-41A8-B97C-F57FC182630C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E487DCDA-328C-41A8-B97C-F57FC182630C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E487DCDA-328C-41A8-B97C-F57FC182630C}.Release|x86.ActiveCfg = Release|Any CPU
+		{E487DCDA-328C-41A8-B97C-F57FC182630C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
