@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyReverse", "MyReverse\MyRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubArray", "SubArray\SubArray.csproj", "{1970C1B0-0DB9-467F-9DC2-AFCCDDDD416E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeArray", "ShiftArray\ChangeArray.csproj", "{B30F852B-0D16-4A19-8997-272BEF133D3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,14 @@ Global
 		{1970C1B0-0DB9-467F-9DC2-AFCCDDDD416E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1970C1B0-0DB9-467F-9DC2-AFCCDDDD416E}.Release|x86.ActiveCfg = Release|Any CPU
 		{1970C1B0-0DB9-467F-9DC2-AFCCDDDD416E}.Release|x86.Build.0 = Release|Any CPU
+		{B30F852B-0D16-4A19-8997-272BEF133D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30F852B-0D16-4A19-8997-272BEF133D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30F852B-0D16-4A19-8997-272BEF133D3A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B30F852B-0D16-4A19-8997-272BEF133D3A}.Debug|x86.Build.0 = Debug|Any CPU
+		{B30F852B-0D16-4A19-8997-272BEF133D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30F852B-0D16-4A19-8997-272BEF133D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30F852B-0D16-4A19-8997-272BEF133D3A}.Release|x86.ActiveCfg = Release|Any CPU
+		{B30F852B-0D16-4A19-8997-272BEF133D3A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
